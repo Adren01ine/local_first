@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-This is my first text.
+
+<<<<<<< HEAD This is my first text.
 =======
 This is my second text line.
 >>>>>>> Identifier here
